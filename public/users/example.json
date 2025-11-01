@@ -1,0 +1,32 @@
+{
+  "username": "example",
+  "avatar": "https://avatars.githubusercontent.com/u/1?v=4",
+  "bio": "Welcome to my profile! I'm a developer passionate about building amazing web experiences. Check out my links below! 🚀",
+  "links": [
+    {
+      "title": "GitHub Profile",
+      "url": "https://github.com",
+      "icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    },
+    {
+      "title": "Portfolio Website",
+      "url": "https://example.com",
+      "icon": "https://avatars.githubusercontent.com/u/1?v=4"
+    },
+    {
+      "title": "Blog",
+      "url": "https://example.com/blog",
+      "icon": "https://avatars.githubusercontent.com/u/1?v=4"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com",
+      "icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com",
+      "icon": "https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca"
+    }
+  ]
+}
