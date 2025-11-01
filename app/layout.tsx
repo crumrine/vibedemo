@@ -16,6 +16,9 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   title: "VibeDemo - User Profiles",
   description: "Mobile-first user profile showcase",
+  icons: {
+    icon: '/favicon.svg',
+  },
   openGraph: {
     title: "VibeDemo - User Profiles",
     description: "Mobile-first user profile showcase",
